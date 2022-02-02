@@ -1,0 +1,13 @@
+name: lab7
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - matplotlib    # 2D plotting library
+    - pandas        # Labelled table data
+    - numpy         # N-d array and numerics 
+    - jupyter       # Interactive notebooks
+    - folium        # Python wrapper for Leaflet.js for plotting interactive maps
+    - lxml          # XML and HTML processing
+    - selenium      # Automates browsers
+    - rioxarray     # Read/write scientific datasets 
